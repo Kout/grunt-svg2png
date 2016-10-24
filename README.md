@@ -1,3 +1,5 @@
+> This fork is only due to inactivity on original repository. An unfulfilled peer dependency was throwing error. The only difference is just implementing this PR: https://github.com/dbushell/grunt-svg2png/pull/36 
+
 grunt-svg2png
 =============
 
